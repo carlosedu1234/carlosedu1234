@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo Riaño</h1>
-<h3 align="center">A passionate Game developer from Colombia</h3>
+<h3 align="center">A passionate Front End Developer from Colombia</h3>
 
 - 🌱 I’m currently learning **.Net, Unreal**
 
